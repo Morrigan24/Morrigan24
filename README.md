@@ -1,7 +1,7 @@
 - Alberto Costa
-- Learning to make things for videogames
-- java, c++
-- I'm interested in making 3d stuff lately(levels, models)
+- I love doing front end stuff.
+- Java, HTML & CSS, PHP, python, C++
+- Been making 3d stuff lately(levels, models)
 - albertocosta0108@gmail.com
 
 <!---
